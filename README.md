@@ -13,8 +13,8 @@ This project was completed as part of the **Codebasics Power BI Course**, where 
 
 ## Datasets
 
-Before jumping into the analysis, it’s important to understand the datasets. We worked with two main types of tables:
-**Dimension table**: Static data like customer and product details.
+Before jumping into the analysis, it’s important to understand the datasets. We worked with two main types of tables:  
+**Dimension table**: Static data like customer and product details.  
 **Fact table**: Transaction data.
 
 gdb041:
