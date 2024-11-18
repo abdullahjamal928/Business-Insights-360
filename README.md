@@ -9,7 +9,7 @@ To tackle this, AltiQ decided to implement **Power BI** for better analytics. Th
 This project was completed as part of the **Codebasics Power BI Course**, where I focused on building an interactive dashboard to address the company's business needs.
 
 ## Report Links
-- [Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiYWM2MDVmOTgtZDA2Mi00NzY3LTg5ODYtZGMxOTFkOGIxZjNiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
+- [Power BI Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWM2MDVmOTgtZDA2Mi00NzY3LTg5ODYtZGMxOTFkOGIxZjNiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
 
 ## Datasets
 
