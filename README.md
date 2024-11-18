@@ -54,22 +54,22 @@ In this project, we used the the **Snowflake schema** data modeling method.
 
 The dashboard is designed to offer stakeholders easy access to key metrics. It consists of six pages:
 
-1. **Home Page**: A simple landing page with buttons to navigate to different sections.
+### **Home Page**: A simple landing page with buttons to navigate to different sections.  
 ![#1](https://github.com/user-attachments/assets/6d158f88-a269-451c-901e-a4740d2018ef)
 
-2. **Finance Page**: Includes Profit & Loss statements, Top Products/Customers by Net Sales, and more.
+### **Finance Page**: Includes Profit & Loss statements, Top Products/Customers by Net Sales, and more.  
 ![#2](https://github.com/user-attachments/assets/e5136209-aad3-4c9d-b00c-791cfb15b16a)
 
-3. **Sales Page**: Displays customer performance by Net Sales, Gross Margin, and Gross Margin %, among other metrics.
+### **Sales Page**: Displays customer performance by Net Sales, Gross Margin, and Gross Margin %, among other metrics.  
 ![#3](https://github.com/user-attachments/assets/045f6ab4-c6df-4fc4-83ff-0c757a5dbc4d)
 
-4. **Marketing Page**: Focuses on segment performance, Gross Margin%, and Net Profit%.
+### **Marketing Page**: Focuses on segment performance, Gross Margin%, and Net Profit%.  
 ![#4](https://github.com/user-attachments/assets/7377846d-8850-47aa-9c39-44fd1dc6f3cf)
 
-5. **Supply Chain Page**: Helps optimize inventory and supplier relationships by displaying metrics like Forecast Accuracy and Net Error.
+### **Supply Chain Page**: Helps optimize inventory and supplier relationships by displaying metrics like Forecast Accuracy and Net Error.  
 ![#5](https://github.com/user-attachments/assets/3b074c6a-49a6-4d6b-bdd2-0a180d9d60bd)
 
-6. **Executive Page**: A high-level overview with key figures like Net Sales, Gross Margin%, Net Profit%, and more, aimed at top management.
+### **Executive Page**: A high-level overview with key figures like Net Sales, Gross Margin%, Net Profit%, and more, aimed at top management.  
 ![#6](https://github.com/user-attachments/assets/7991832a-cac7-40da-89e0-b611e61ccd6c)
 
 
